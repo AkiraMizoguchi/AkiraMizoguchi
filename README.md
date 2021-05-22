@@ -13,9 +13,9 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 
 ### Talking about Personal Stuffs:
 
-- 📗 ; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 ; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 ; Most of my projects are available on [Github](https://github.com/iampavangandhi).
+- 📗 ; I’m currently working with Flutter, JQuery, React, <br /> Python, Firebase, Javascript, etc.
+- 🚀 ; Ive been learning Full Stack Development.
+<!-- - 👨🏻‍💻 ; Most of my projects are available on [Github](). -->
 - 💬 ; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
 - 👾 ; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 ; How to reach me: pavangandhi100@gmail.com.
@@ -23,9 +23,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 🖥:  I love exploring new tech stack and building cool stuffs.
 
 ### Languages and Tools:
 
