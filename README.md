@@ -8,9 +8,6 @@ I'm a senior year student pursuing Bachelors's in Computer Science 🎓 at UW Ma
 I started leaning Dart since last year.💻 I'm currently into Web Development 🕸️ Ive learned Data Structures and Algorithms.
 
 
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
-
 ### My Favorites:
 
 - 🖥:  I love exploring new tech stack and building cool stuffs.
